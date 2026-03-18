@@ -1,1 +1,7 @@
 # Initial-Controller
+
+Reflection
+
+I realized pretty quickly that I wasn’t as prepared for this as I should have been. With a heavy courseload this term, I definitely "skimmed" the earlier material mechanical foundations. This caught up to me when it came time to actually apply those concepts in the sim environments. I found myself having to pause mid-development to go back and relearn basic concepts that I should have already mastered. It made the whole process feel like I was playing catch-up rather than actually designing. I have a tendency to drift into the "creative" side of building. I wasted a significant amount of time on tiny details—tweaking the curvature of the "B" loops or experimenting with different font interpretations for the buttons which didn't actually add value to the mechanical or electrical function. I spent hours on concept work and aesthetic variations when I should have been testing the simulation parameters or prototyping the internal geometry. I got caught up in the look of the controller mostly. This activity was a bit of a wake-up call regarding my workflow. I’ve already started the process of regoing over the lecture materials and practicing more to build a proper foundation. My goal for the next assignment is to flip my process: focus on the technical constraints and simulation first, and only worry about the aesthetics  once the functional engineering is solid. 
+
+Giving myself a "below" for the self-reflection, but I plan to learn from this and try to to catch up.
